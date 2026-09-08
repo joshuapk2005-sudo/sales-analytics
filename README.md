@@ -89,6 +89,10 @@ The data is loaded from:
 data/sales.csv
 ```
 
+## Data source
+
+This project uses a synthetic sample sales dataset stored in `data/sales.csv`. It is created for learning and portfolio purposes and is not taken from a real company or production database.
+
 ## Example SQL Queries
 
 The project includes SQL queries for:
